@@ -1,0 +1,2 @@
+We do use public and anonymous identity (app) to fetch data, which only produces a hyperlink into Telegram group for display.
+For more information, please do not hestitate to ask @hkgsherlock directly.
